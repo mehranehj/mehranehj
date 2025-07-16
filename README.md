@@ -1,4 +1,7 @@
 ## Hi there 👋
+I’m <b>Mehraneh Jahangiri</b> and I’m a programmer.
+I’m fluent in html and leaning python.
+how to reach me: mehranejhn@gmail.com
 
 <!--
 **mehranehj/mehranehj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
